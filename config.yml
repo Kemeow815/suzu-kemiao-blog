@@ -1,23 +1,23 @@
 # ######################
 # SITE SETTINGS
 # ######################
-title: Suzu # The name of your blog, used in titles and meta tags.
-subTitle: Next.js Blog Template # A short description that appears after the main title.
-description: 'Suzu is a minimalist blog template with a serene sakura-inspired theme, blending modern design with a touch of traditional Japanese aesthetics.' # A longer description for SEO and meta tags.
+title: 克喵の小栈 # The name of your blog, used in titles and meta tags.
+subTitle: Ke Miao's Blog # A short description that appears after the main title.
+description: '致力于分享技术、生活、资源等各方面内容' # A longer description for SEO and meta tags.
 keywords: 'Suzu, Next.js, markdown blog, Tailwind CSS, blog template, sakura, ZL Asica' # Comma-separated keywords for SEO purposes.
 author:
-  name: ZL Asica # Your name, displayed as the author of the blog.
-  link: 'https://www.zla.pub' # Link to your personal website or blog.
+  name: 克喵爱吃卤面 # Your name, displayed as the author of the blog.
+  link: 'https://star.kemiaosw.top' # Link to your personal website or blog.
 # Language setting: Use ISO 639-1 code (e.g., 'en' for English, 'zh' for Chinese)
 lang: zh
 # Your public root url, used for SEO and meta tags.
 # !Do not include a ending slash
-siteUrl: 'https://suzu.zla.app'
+siteUrl: 'https://star.kemiaosw.top'
 
 # Path to your avatar image. Can be a relative path from /public or a full URL (e.g., https://).
-avatar: /images/avatar.jpg
+avatar: https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202503171226033.png
 # Used as the default thumbnail for posts without thumbnails.
-background: /images/background.jpg
+background: https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/back2.jpg
 # Slogan displayed on your homepage, under your avatar.
 slogan: "As long as the code or the developer is able to run, it's all good."
 # Google Analytics tracking ID (e.g., 'G-XXXXXXXXXX'). Leave empty if you do not want to use Google Analytics.
@@ -38,20 +38,20 @@ creativeCommons:
 # ######################
 # If you want to join the travellings community, set the following field to true.
 # For more information, visit https://www.travellings.cn/en_US/
-travellings: false
+travellings: true
 
 # ######################
 # FOOTER SETTINGS
 # ######################
 # If you want to have a start year of your blog, set the year here.
-startYear: 2017 # Leave empty if you do not want to display a start year.
+startYear: 2025 # Leave empty if you do not want to display a start year.
 
 # ######################
 # PAGES SETTINGS
 # ######################
 # Add your AniList username if you want to display your AniList profile.
 # Leave the field empty if you do not want to display your AniList profile.
-anilist_username: zlasica # Your AniList username. https://anilist.co/user/username
+anilist_username:  # Your AniList username. https://anilist.co/user/username
 
 # ######################
 # SOCIAL MEDIA SETTINGS
