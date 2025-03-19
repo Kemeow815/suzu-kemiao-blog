@@ -60,17 +60,19 @@ anilist_username:  # Your AniList username. https://anilist.co/user/username
 # Leave the field empty if you do not want to display a specific platform.
 # The order of the social media icons is determined by the order below.
 socialMedia:
-  github_username: ZL-Asica # Your GitHub username. https://github.com/username
-  linkedin_username: elara-liu # Your LinkedIn username. https://www.linkedin.com/in/username
-  instagram_id: # Your Instagram username.
-  orcid_id: 0009-0008-7221-2324 # Your ORCID iD.
-  telegram_username: zl_asica # Your Telegram username. https://t.me/username
-  bluesky_username: zla.app # Your Bluesky username (without prefix). https://bsky.app/profile/{username}
-  youtube_id: ZL-Asica # Your YouTube channel ID. https://www.youtube.com/@username
-  zhihu_username: zl_asica # Your Zhihu username. https://www.zhihu.com/people/username
-  bilibili_id: 29018759 # Your Bilibili ID. https://space.bilibili.com/username
-  email: zl@zla.app # Your email address.
-  rss: false # Display the RSS icon. Set to false to hide the icon. Set empty to fully disable the RSS feed.
+  github_username: Kemeow815 # Your GitHub username. https://github.com/username
+  qq_id: 3149261770 # Your QQ ID.
+
+  # linkedin_username: elara-liu # Your LinkedIn username. https://www.linkedin.com/in/username
+  # instagram_id: # Your Instagram username.
+  orcid_id: 0009-0009-2218-7316 # Your ORCID iD.
+  telegram_username: kemiaoJun # Your Telegram username. https://t.me/username
+  # bluesky_username: zla.app # Your Bluesky username (without prefix). https://bsky.app/profile/{username}
+  # youtube_id: ZL-Asica # Your YouTube channel ID. https://www.youtube.com/@username
+  # zhihu_username: zl_asica # Your Zhihu username. https://www.zhihu.com/people/username
+  bilibili_id: 3546643173477234 # Your Bilibili ID. https://space.bilibili.com/username
+  email: kemiao@kmblog.icu # Your email address.
+  rss: true # Display the RSS icon. Set to false to hide the icon. Set empty to fully disable the RSS feed.
 
 # ######################
 # COMMENTS SETTINGS
@@ -78,10 +80,10 @@ socialMedia:
 # Priority: Twikoo > Disqus
 # ######################
 # Your Twikoo environment ID.
-twikooEnvId:
+twikooEnvId: https://twikoo-suzublog.kemeow.top/
 # Your Disqus shortname (used for integrating Disqus comments).
 # Find this in your Disqus account: yoursite.disqus.com (shortname is the part before .disqus.com).
-disqusShortname: zla-pub
+disqusShortname:
 
 # ######################
 # CUSTOM CODE BLOCKS
