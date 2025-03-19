@@ -61,8 +61,7 @@ anilist_username:  # Your AniList username. https://anilist.co/user/username
 # The order of the social media icons is determined by the order below.
 socialMedia:
   github_username: Kemeow815 # Your GitHub username. https://github.com/username
-  qq_id: 3149261770 # Your QQ ID.
-
+  QQ_username: 3149261770 # Your QQ ID.
   # linkedin_username: elara-liu # Your LinkedIn username. https://www.linkedin.com/in/username
   # instagram_id: # Your Instagram username.
   orcid_id: 0009-0009-2218-7316 # Your ORCID iD.
