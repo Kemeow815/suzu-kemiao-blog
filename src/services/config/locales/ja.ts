@@ -23,6 +23,12 @@ const ja: Translation = {
     description: 'の友達ページです。全てのリンクをご覧いただけます。',
     avatar: 'アバター',
   },
+  music: {
+    title: '音乐',
+    description: 'の音乐ページです。',
+    link: 'https://music.kemiao.online/',
+
+  },
   about: {
     title: '概要',
     description:
