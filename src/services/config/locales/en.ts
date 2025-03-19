@@ -26,7 +26,7 @@ const en: Translation = {
   music: {
     title: 'Music',
     description: '\'s music page, where you can see all the songs.',
-    link: 'https://music.kemiao.online/',
+    url: 'https://music.kemiao.online/',
 
   },
   about: {

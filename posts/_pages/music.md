@@ -5,6 +5,4 @@ showLicense: false
 showComments: true
 showThumbnail: false
 autoSlug: false
-link: 'https://music.kemiao.online/'
-
 ---

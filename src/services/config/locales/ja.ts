@@ -26,8 +26,7 @@ const ja: Translation = {
   music: {
     title: '音乐',
     description: 'の音乐ページです。',
-    link: 'https://music.kemiao.online/',
-
+    url: 'https://music.kemiao.online/',
   },
   about: {
     title: '概要',

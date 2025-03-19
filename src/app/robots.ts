@@ -18,6 +18,7 @@ async function robots(): Promise<MetadataRoute.Robots> {
     '/',
     '/about',
     '/friends',
+    '/music',
     '/posts',
     ...postUrls, // Dynamic post URLs
   ]

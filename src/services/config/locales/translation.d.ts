@@ -26,7 +26,7 @@ interface Translation {
   music: {
     title: string
     description: string
-    link: string
+    url: string
 
   }
   about: {
