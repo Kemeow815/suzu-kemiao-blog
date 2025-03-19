@@ -30,7 +30,7 @@ const HeaderMenu = ({ config, isMobile, ulClassName, onClickHandler }: HeaderMen
     { href: '/', label: translation.home.title, icon: <House /> },
     { href: '/posts', label: translation.posts.title, icon: <Newspaper /> },
     { href: '/friends', label: translation.friends.title, icon: <UsersRound /> },
-    { href: '/music', label: translation.music.title, icon: <Music2 /> },
+    { href: 'https://music.kemiao.online', label: translation.music.title, icon: <Music2 /> },
     { href: '/about', label: translation.about.title, icon: <Info /> },
   ]
 
