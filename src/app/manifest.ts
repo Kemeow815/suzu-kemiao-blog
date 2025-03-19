@@ -27,7 +27,7 @@ function manifest(): MetadataRoute.Manifest {
         type: 'image/png',
       },
       {
-        src: '/favicon.ico',
+        src: 'https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/website2.png',
         sizes: '64x64',
         type: 'image/x-icon',
       },

@@ -23,6 +23,10 @@ interface Translation {
     description: string
     avatar: string
   }
+  music: {
+    title: string
+    description: string
+  }
   about: {
     title: string
     description: string

@@ -23,6 +23,10 @@ const en: Translation = {
     description: '\'s friends page, where you can see all the friends.',
     avatar: 'Avatar',
   },
+  music: {
+    title: 'Music',
+    description: '\'s music page, where you can see all the songs.',
+  },
   about: {
     title: 'About',
     description:
