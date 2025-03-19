@@ -17,12 +17,12 @@ function manifest(): MetadataRoute.Manifest {
     orientation: 'any',
     icons: [
       {
-        src: '/icons/icon-192x192.png',
+        src: 'https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/website2.png',
         sizes: '192x192',
         type: 'image/png',
       },
       {
-        src: '/icons/icon-512x512.png',
+        src: 'https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/website2.png',
         sizes: '512x512',
         type: 'image/png',
       },

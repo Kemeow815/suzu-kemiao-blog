@@ -26,7 +26,7 @@ const zh: Translation = {
   music: {
     title: '音乐',
     description: ' 的音乐页，在这里你可以听到所有的音乐。',
-    link: 'https://music.kemiao.online/',
+    url: 'https://music.kemiao.online/',
   },
   about: {
     title: '关于',
