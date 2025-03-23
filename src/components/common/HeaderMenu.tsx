@@ -2,7 +2,7 @@
 
 import type { ReactElement } from 'react'
 import { useTheme } from '@zl-asica/react'
-import { House, Info, Moon, Music2, Newspaper, Sun, TrainFront, TvMinimalPlay, UsersRound } from 'lucide-react'
+import { House, Info, Moon, Newspaper, Sun, TrainFront, TvMinimalPlay, UsersRound } from 'lucide-react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { Fragment } from 'react'
@@ -30,7 +30,6 @@ const HeaderMenu = ({ config, isMobile, ulClassName, onClickHandler }: HeaderMen
     { href: '/', label: translation.home.title, icon: <House /> },
     { href: '/posts', label: translation.posts.title, icon: <Newspaper /> },
     { href: '/friends', label: translation.friends.title, icon: <UsersRound /> },
-    { href: 'https://music.kemiao.online', label: translation.music.title, icon: <Music2 /> },
     { href: '/about', label: translation.about.title, icon: <Info /> },
   ]
 

@@ -9,7 +9,6 @@ import {
   FaInstagram,
   FaLinkedin,
   FaOrcid,
-  FaQq,
   FaRss,
   FaTelegram,
   FaYoutube,
@@ -20,10 +19,6 @@ const socialData: SocialData = {
   github_username: {
     urlTemplate: 'https://github.com/{username}',
     icon: FaGithub,
-  },
-  QQ_username: {
-    urlTemplate: 'https://wpa.qq.com/msgrd?v=3&uin={username}&site=qq&menu=yes',
-    icon: FaQq,
   },
   linkedin_username: {
     urlTemplate: 'https://www.linkedin.com/in/{username}',

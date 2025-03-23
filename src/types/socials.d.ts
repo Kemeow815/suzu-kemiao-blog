@@ -1,7 +1,6 @@
 type SocialMediaKey =
   | 'github_username'
   | 'linkedin_username'
-  | 'QQ_username'
   | 'instagram_id'
   | 'orcid_id'
   | 'telegram_username'

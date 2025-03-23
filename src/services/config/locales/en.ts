@@ -23,12 +23,6 @@ const en: Translation = {
     description: '\'s friends page, where you can see all the friends.',
     avatar: 'Avatar',
   },
-  music: {
-    title: 'Music',
-    description: '\'s music page, where you can see all the songs.',
-    url: 'https://music.kemiao.online/',
-
-  },
   about: {
     title: 'About',
     description:
